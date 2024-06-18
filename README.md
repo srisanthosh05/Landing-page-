@@ -1,2 +1,2 @@
-# Landing-page-
-The "Headphones Landing Page" project is a modern and responsive single-page application designed to showcase a premium line of headphones. This landing page is built using HTML, CSS, and JavaScript, 
+# Personal Portfolio
+The Project contains the Personal Portfolio to showcse the skills and Projects. This Portfolio is built using HTML, CSS, and JavaScript, 
